@@ -6,3 +6,5 @@ y=[]
 for _ in bitlength:
   y.append(c1[0]*_/2+c1[1])
 plt.plot(bitlength,y)
+
+[ 0.00023564 -0.00454077]
